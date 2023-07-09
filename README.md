@@ -4,11 +4,10 @@ As part of the October month codebaiscs resume challenge, I have performed data 
 
 Live Dashboard [Link](https://www.novypro.com/project/atliq-mart-supply-chain-analysis-3)
 
-![Screenshot 2023-07-09 082312](https://github.com/aswin2003/AtliQ-Mart-Supply-Chain-Analysis/assets/78132182/12a5bdb0-2e50-4d80-a8d6-f8d1622fa20b)
-
-
-
 ![Screenshot 2023-07-09 082139](https://github.com/aswin2003/AtliQ-Mart-Supply-Chain-Analysis/assets/78132182/b4374e2c-7c19-480d-9d1c-fc747a595443)
+
+
+![Screenshot 2023-07-09 082312](https://github.com/aswin2003/AtliQ-Mart-Supply-Chain-Analysis/assets/78132182/12a5bdb0-2e50-4d80-a8d6-f8d1622fa20b)
 
 
 
