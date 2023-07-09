@@ -3,6 +3,7 @@
 As part of the October month codebaiscs resume challenge, I have performed data analysis and designed a dashboard in Power BI
 
 Screenshot 2023-07-09 082419.png
+https://github.com/aswin2003/AtliQ-Mart-Supply-Chain-Analysis/blob/f0ff25ec6a64831f82e8e3ab6e17dddd716014a6/Screenshot%202023-07-09%20082419.png
 
 
 Live Dashboard [Link](https://www.novypro.com/project/atliq-mart-supply-chain-analysis-3)
